@@ -166,17 +166,6 @@
           "fuso_horario": "America\/Sao_Paulo"
       },
       {
-          "codigo_ibge": 3100401,
-          "nome": "Acaiaca",
-          "latitude": -20.359,
-          "longitude": -43.1439,
-          "capital": 0,
-          "codigo_uf": 31,
-          "siafi_id": 4007,
-          "ddd": 31,
-          "fuso_horario": "America\/Sao_Paulo"
-      },
-      {
           "codigo_ibge": 2100055,
           "nome": "Açailândia",
           "latitude": -4.94714,
@@ -298,17 +287,6 @@
           "fuso_horario": "America\/Rio_Branco"
       },
       {
-          "codigo_ibge": 5200134,
-          "nome": "Acreúna",
-          "latitude": -17.396,
-          "longitude": -50.3749,
-          "capital": 0,
-          "codigo_uf": 52,
-          "siafi_id": 9645,
-          "ddd": 64,
-          "fuso_horario": "America\/Sao_Paulo"
-      },
-      {
           "codigo_ibge": 2400208,
           "nome": "Açu",
           "latitude": -5.58362,
@@ -317,17 +295,6 @@
           "codigo_uf": 24,
           "siafi_id": 1603,
           "ddd": 84,
-          "fuso_horario": "America\/Sao_Paulo"
-      },
-      {
-          "codigo_ibge": 3100500,
-          "nome": "Açucena",
-          "latitude": -19.0671,
-          "longitude": -42.5419,
-          "capital": 0,
-          "codigo_uf": 31,
-          "siafi_id": 4009,
-          "ddd": 33,
           "fuso_horario": "America\/Sao_Paulo"
       },
       {
@@ -341,27 +308,6 @@
           "ddd": 18,
           "fuso_horario": "America\/Sao_Paulo"
       },
-      {
-          "codigo_ibge": 5200159,
-          "nome": "Adelândia",
-          "latitude": -16.4127,
-          "longitude": -50.1657,
-          "capital": 0,
-          "codigo_uf": 52,
-          "siafi_id": 9769,
-          "ddd": 64,
-          "fuso_horario": "America\/Sao_Paulo"
-      },
-      {
-          "codigo_ibge": 3500204,
-          "nome": "Adolfo",
-          "latitude": -21.2325,
-          "longitude": -49.6451,
-          "capital": 0,
-          "codigo_uf": 35,
-          "siafi_id": 6103,
-          "ddd": 17,
-          "fuso_horario": "America\/Sao_Paulo"
-      }
+
     ]
 }
