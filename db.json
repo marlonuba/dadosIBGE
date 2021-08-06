@@ -32,7 +32,183 @@
           "siafi_id": 9201,
           "ddd": 62,
           "fuso_horario": "America\/Sao_Paulo"
-      }
+      },
+    {
+        "codigo_ibge": 3202553,
+        "nome": "Ibitirama",
+        "latitude": -20.5466,
+        "longitude": -41.6667,
+        "capital": 0,
+        "codigo_uf": 32,
+        "siafi_id": 6011,
+        "ddd": 28,
+        "fuso_horario": "America\/Sao_Paulo"
+    },
+    {
+        "codigo_ibge": 2913101,
+        "nome": "Ibititá",
+        "latitude": -11.5414,
+        "longitude": -41.9748,
+        "capital": 0,
+        "codigo_uf": 29,
+        "siafi_id": 3563,
+        "ddd": 74,
+        "fuso_horario": "America\/Sao_Paulo"
+    },
+    {
+        "codigo_ibge": 3129905,
+        "nome": "Ibitiúra de Minas",
+        "latitude": -22.0604,
+        "longitude": -46.4368,
+        "capital": 0,
+        "codigo_uf": 31,
+        "siafi_id": 4597,
+        "ddd": 35,
+        "fuso_horario": "America\/Sao_Paulo"
+    },
+     {
+        "codigo_ibge": 1711803,
+        "nome": "Juarina",
+        "latitude": -8.11951,
+        "longitude": -49.0643,
+        "capital": 0,
+        "codigo_uf": 17,
+        "siafi_id": 349,
+        "ddd": 63,
+        "fuso_horario": "America\/Sao_Paulo"
+    },
+    {
+        "codigo_ibge": 3136652,
+        "nome": "Juatuba",
+        "latitude": -19.9448,
+        "longitude": -44.3451,
+        "capital": 0,
+        "codigo_uf": 31,
+        "siafi_id": 2691,
+        "ddd": 31,
+        "fuso_horario": "America\/Sao_Paulo"
+    },
+    {
+        "codigo_ibge": 2507705,
+        "nome": "Juazeirinho",
+        "latitude": -7.06092,
+        "longitude": -36.5793,
+        "capital": 0,
+        "codigo_uf": 25,
+        "siafi_id": 2055,
+        "ddd": 83,
+        "fuso_horario": "America\/Sao_Paulo"
+    },
+    {
+        "codigo_ibge": 2918407,
+        "nome": "Juazeiro",
+        "latitude": -9.41622,
+        "longitude": -40.5033,
+        "capital": 0,
+        "codigo_uf": 29,
+        "siafi_id": 3669,
+        "ddd": 74,
+        "fuso_horario": "America\/Sao_Paulo"
+    },
+    {
+        "codigo_ibge": 2307304,
+        "nome": "Juazeiro do Norte",
+        "latitude": -7.19621,
+        "longitude": -39.3076,
+        "capital": 0,
+        "codigo_uf": 23,
+        "siafi_id": 1447,
+        "ddd": 88,
+        "fuso_horario": "America\/Sao_Paulo"
+    },
+    {
+        "codigo_ibge": 2205516,
+        "nome": "Juazeiro do Piauí",
+        "latitude": -5.17459,
+        "longitude": -41.6976,
+        "capital": 0,
+        "codigo_uf": 22,
+        "siafi_id": 330,
+        "ddd": 86,
+        "fuso_horario": "America\/Sao_Paulo"
+    },
+    {
+        "codigo_ibge": 2307403,
+        "nome": "Jucás",
+        "latitude": -6.51523,
+        "longitude": -39.5187,
+        "capital": 0,
+        "codigo_uf": 23,
+        "siafi_id": 1449,
+        "ddd": 88,
+        "fuso_horario": "America\/Sao_Paulo"
+    },
+    {
+        "codigo_ibge": 2608255,
+        "nome": "Jucati",
+        "latitude": -8.70195,
+        "longitude": -36.4871,
+        "capital": 0,
+        "codigo_uf": 26,
+        "siafi_id": 2295,
+        "ddd": 87,
+        "fuso_horario": "America\/Sao_Paulo"
+    },
+    {
+        "codigo_ibge": 2918456,
+        "nome": "Jucuruçu",
+        "latitude": -16.8488,
+        "longitude": -40.1641,
+        "capital": 0,
+        "codigo_uf": 29,
+        "siafi_id": 3287,
+        "ddd": 73,
+        "fuso_horario": "America\/Sao_Paulo"
+    },
+    {
+        "codigo_ibge": 2406106,
+        "nome": "Jucurutu",
+        "latitude": -6.0306,
+        "longitude": -37.009,
+        "capital": 0,
+        "codigo_uf": 24,
+        "siafi_id": 1719,
+        "ddd": 84,
+        "fuso_horario": "America\/Sao_Paulo"
+    },
+    {
+        "codigo_ibge": 5105150,
+        "nome": "Juína",
+        "latitude": -11.3728,
+        "longitude": -58.7483,
+        "capital": 0,
+        "codigo_uf": 51,
+        "siafi_id": 9831,
+        "ddd": 66,
+        "fuso_horario": "America\/Porto_Velho"
+    },
+    {
+        "codigo_ibge": 3136702,
+        "nome": "Juiz de Fora",
+        "latitude": -21.7595,
+        "longitude": -43.3398,
+        "capital": 0,
+        "codigo_uf": 31,
+        "siafi_id": 4733,
+        "ddd": 32,
+        "fuso_horario": "America\/Sao_Paulo"
+    },
+    {
+        "codigo_ibge": 2205524,
+        "nome": "Júlio Borges",
+        "latitude": -10.3225,
+        "longitude": -44.2381,
+        "capital": 0,
+        "codigo_uf": 22,
+        "siafi_id": 332,
+        "ddd": 89,
+        "fuso_horario": "America\/Sao_Paulo"
+    }
 
     ]
 }
