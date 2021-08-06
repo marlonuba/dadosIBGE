@@ -1,6 +1,5 @@
-  "cidades": {
-
-  [
+ {
+   "cidades": [
     {
           "codigo_ibge": 5200050,
           "nome": "Abadia de Goiás",
