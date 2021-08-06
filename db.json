@@ -67,28 +67,6 @@
           "fuso_horario": "America\/Sao_Paulo"
       },
       {
-          "codigo_ibge": 2900108,
-          "nome": "Abaíra",
-          "latitude": -13.2488,
-          "longitude": -41.6619,
-          "capital": 0,
-          "codigo_uf": 29,
-          "siafi_id": 3301,
-          "ddd": 77,
-          "fuso_horario": "America\/Sao_Paulo"
-      },
-      {
-          "codigo_ibge": 2900207,
-          "nome": "Abaré",
-          "latitude": -8.72073,
-          "longitude": -39.1162,
-          "capital": 0,
-          "codigo_uf": 29,
-          "siafi_id": 3303,
-          "ddd": 75,
-          "fuso_horario": "America\/Sao_Paulo"
-      },
-      {
           "codigo_ibge": 4100103,
           "nome": "Abatiá",
           "latitude": -23.3049,
@@ -107,28 +85,6 @@
           "capital": 0,
           "codigo_uf": 42,
           "siafi_id": 9939,
-          "ddd": 49,
-          "fuso_horario": "America\/Sao_Paulo"
-      },
-      {
-          "codigo_ibge": 1500131,
-          "nome": "Abel Figueiredo",
-          "latitude": -4.95333,
-          "longitude": -48.3933,
-          "capital": 0,
-          "codigo_uf": 15,
-          "siafi_id": 375,
-          "ddd": 94,
-          "fuso_horario": "America\/Sao_Paulo"
-      },
-      {
-          "codigo_ibge": 4200101,
-          "nome": "Abelardo Luz",
-          "latitude": -26.5716,
-          "longitude": -52.3229,
-          "capital": 0,
-          "codigo_uf": 42,
-          "siafi_id": 8001,
           "ddd": 49,
           "fuso_horario": "America\/Sao_Paulo"
       },
@@ -185,28 +141,6 @@
           "codigo_uf": 29,
           "siafi_id": 3305,
           "ddd": 75,
-          "fuso_horario": "America\/Sao_Paulo"
-      },
-      {
-          "codigo_ibge": 1500206,
-          "nome": "Acará",
-          "latitude": -1.95383,
-          "longitude": -48.1985,
-          "capital": 0,
-          "codigo_uf": 15,
-          "siafi_id": 403,
-          "ddd": 91,
-          "fuso_horario": "America\/Sao_Paulo"
-      },
-      {
-          "codigo_ibge": 2300150,
-          "nome": "Acarape",
-          "latitude": -4.22083,
-          "longitude": -38.7055,
-          "capital": 0,
-          "codigo_uf": 23,
-          "siafi_id": 1231,
-          "ddd": 85,
           "fuso_horario": "America\/Sao_Paulo"
       },
       {
