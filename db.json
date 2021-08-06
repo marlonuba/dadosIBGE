@@ -1,38 +1,6 @@
  {
    "cidades": [
-	 {
-        "codigo_ibge": 3162948,
-        "nome": "São José da Barra",
-        "latitude": -20.7178,
-        "longitude": -46.313,
-        "capital": 0,
-        "codigo_uf": 31,
-        "siafi_id": 724,
-        "ddd": 35,
-        "fuso_horario": "America\/Sao_Paulo"
-    },
-    {
-        "codigo_ibge": 3549508,
-        "nome": "São José da Bela Vista",
-        "latitude": -20.5935,
-        "longitude": -47.6424,
-        "capital": 0,
-        "codigo_uf": 35,
-        "siafi_id": 7091,
-        "ddd": 16,
-        "fuso_horario": "America\/Sao_Paulo"
-    },
-    {
-        "codigo_ibge": 4125407,
-        "nome": "São José da Boa Vista",
-        "latitude": -23.9122,
-        "longitude": -49.6577,
-        "capital": 0,
-        "codigo_uf": 41,
-        "siafi_id": 7883,
-        "ddd": 43,
-        "fuso_horario": "America\/Sao_Paulo"
-    },
+	
     {
         "codigo_ibge": 2613404,
         "nome": "São José da Coroa Grande",
